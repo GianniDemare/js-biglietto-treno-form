@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(185, 21, 71);
+}
+
+.bg-button{
+    background-color: rgb(197, 197, 197);
+    color: rgb(185, 21, 71);
+}
